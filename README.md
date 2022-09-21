@@ -1,4 +1,4 @@
-# Kodluyoringg
+# Kodluyoruz
 <!DOCTYPE html>
 <html lang="tr">
 <head>
